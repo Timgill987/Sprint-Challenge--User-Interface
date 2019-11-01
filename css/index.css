@@ -263,6 +263,7 @@ color: darkgrey;
 footer {
     width: 100%;
     background: black;
+    margin: 0 auto;
 }
 
 footer nav {
@@ -279,4 +280,46 @@ footer nav a {
     text-decoration: none;
 
 
+}
+.core {
+display:flex;
+}
+
+button {
+    background-color: white;
+    height: 35px;
+    width: 150px;
+    border-radius: 15px;
+    font-size: 16px;
+}
+
+section h3 {
+    padding-top: 3%;
+}
+
+section p {
+    padding-bottom: 6%;
+    font-size: 17px
+}
+
+.core div {
+    padding-bottom: 2%;
+    border-bottom: 1px dashed;
+}
+.core img {
+    padding-bottom: 2%;
+    padding-top: 12%
+}
+
+.footer {
+width:45%;
+margin: 0% 0% 0% 29%;
+}
+
+h2 {
+padding-top: 3%;
+}
+
+.about-footer{
+width: 42%
 }
